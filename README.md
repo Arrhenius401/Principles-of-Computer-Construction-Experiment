@@ -1,2 +1,4 @@
 # Principles-of-Computer-Construction-Experiment
 东北大学计算机组成原理课程的三实验及平时作业
+三实验分别是组合逻辑设计、时序逻辑设计和单周期CPU设计
+四平时作业是轨道交通灯、加法器、交通灯FSM和存储系统设计
